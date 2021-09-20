@@ -1,2 +1,11 @@
 # little-snitch-rule-groups
-My Rule Groups for Little Snitch. YMMV
+
+My rule groups for Little Snitch. YMMV
+
+## 🙅 Blocklist
+
+Domains, hosts, and IP addresses that are blocked on any process.
+
+## 🙆 Allowlist
+
+Domains, hosts, and IP addresses that have been vetted for any process.
