@@ -27,6 +27,14 @@
       "remote-hosts": [
         "bingsettingssearch.trafficmanager.net"
       ]
+    },
+    {
+      "action": "ask",
+      "notes": "Used for 'experiments', presumably A/B testing.",
+      "process": "any",
+      "remote-hosts": [
+        "vscodeexperiments.azureedge.net"
+      ]
     }
   ]
 }
