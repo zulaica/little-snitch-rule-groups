@@ -20,6 +20,11 @@ Rule Group URL:
 Rule Group URL:
 `https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/Notion.lsrules`
 
+## Signal
+
+Rule Group URL:
+`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/Signal.lsrules`
+
 ## Visual Studio Code
 
 Rule Group URL:

@@ -1,0 +1,19 @@
+{
+  "name": "🕸 Signal",
+  "description": "Signal, its helpers, and the browser view",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-hosts": [
+        "cdn.signal.org",
+        "cdn2.signal.org",
+        "chat.signal.org",
+        "signal.org",
+        "storage.signal.org",
+        "updates.signal.org",
+        "updates2.signal.org"
+      ]
+    }
+  ]
+}
