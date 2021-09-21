@@ -10,6 +10,11 @@ browser.
 Rule Group URL:
 `https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/1Password.lsrules`
 
+## Discord
+
+Rule Group URL:
+`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/Discord.lsrules`
+
 ## Figma
 
 Rule Group URL:

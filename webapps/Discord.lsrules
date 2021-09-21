@@ -1,0 +1,20 @@
+{
+  "name": "🕸 Discord",
+  "description": "Discord, its helpers, and the browser view",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-hosts": [
+        "discord.com",
+        "support.discord.com",
+        "cdn.discordapp.com",
+        "dl.discordapp.net",
+        "images-ext-1.discordapp.net",
+        "media.discordapp.net",
+        "gateway.discord.gg",
+        "latency.discord.media"
+      ]
+    }
+  ]
+}
