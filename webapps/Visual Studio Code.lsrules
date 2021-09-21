@@ -1,0 +1,32 @@
+{
+  "name": "🕸 Visual Studio Code",
+  "description": "Visual Studio Code and its helpers.",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-hosts": [
+        "code.visualstudio.com",
+        "marketplace.visualstudio.com",
+        "update.code.visualstudio.com"
+      ]
+    },
+    {
+      "action": "ask",
+      "notes": "Domains used for Telemetry. The information collected is bound by Microsoft's privac policy. https://privacy.microsoft.com/en-us/privacystatement",
+      "process": "any",
+      "remote-domains": [
+        "data.microsoft.com",
+        "services.visualstudio.com"
+      ]
+    },
+    {
+      "action": "ask",
+      "notes": "Needed for the Natural Language Search option.",
+      "process": "any",
+      "remote-hosts": [
+        "bingsettingssearch.trafficmanager.net"
+      ]
+    }
+  ]
+}

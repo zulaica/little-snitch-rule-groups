@@ -19,3 +19,8 @@ Rule Group URL:
 
 Rule Group URL:
 `https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/Notion.lsrules`
+
+## Visual Studio Code
+
+Rule Group URL:
+`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/Visual%20Studio%20Code.lsrules`
