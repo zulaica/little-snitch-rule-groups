@@ -1,0 +1,12 @@
+###
+# Additive Approach
+###
+
+# Let's ignore everything…
+*
+
+# …except for these
+!.gitignore
+!.gitattributes
+!README.md
+!*.lsrules
