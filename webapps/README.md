@@ -1,3 +1,5 @@
+# Webapps
+
 Rulesets for applications with code that's shared across different platforms.
 These rules are applied to any process to simplify their use regardless of
 whether the application native to the OS or is launched from a browser.
