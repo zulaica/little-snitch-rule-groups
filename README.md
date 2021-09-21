@@ -16,7 +16,7 @@ Domains, hosts, and IP addresses that have been vetted for any process.
 Rule Group URL:
 `https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/Allowlist.lsrules`
 
-## 🕸 Webapps
+## 🕸 Apps
 
-Individual [sets of rules](./webapps) for applications with code that's shared across
-different platforms.
+Individual [sets of rules](./apps) for applications that make network requests
+and use code that's shared across different platforms.
