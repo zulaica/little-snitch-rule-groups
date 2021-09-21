@@ -1,0 +1,17 @@
+{
+  "name": "🕸 Local",
+  "description": "Local and its helpers.",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-hosts": [
+        "api.localbyflywheel.com",
+        "app.getflywheel.com",
+        "cdn.localwp.com",
+        "hub.localwp.com",
+        "localwp.com"
+      ]
+    }
+  ]
+}

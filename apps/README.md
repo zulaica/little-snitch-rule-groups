@@ -41,6 +41,18 @@ https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Fi
 
 ---
 
+## Local
+
+https://localwp.com/
+
+Rule Group URL:
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Local.lsrules
+```
+
+---
+
 ## Notion
 
 https://www.notion.so/
