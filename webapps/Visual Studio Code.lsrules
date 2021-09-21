@@ -31,7 +31,7 @@
     },
     {
       "action": "deny",
-      "notes": "Used for 'experiments', presumably A/B testing. Issue filed for call to connection to education.github.com: https://github.com/microsoft/vscode/issues/133493",
+      "notes": "Used for 'experiments', presumably A/B testing. Issue filed for connection to education.github.com: https://github.com/microsoft/vscode/issues/133493",
       "process": "any",
       "remote-domains": [
         "education.github.com",
