@@ -6,8 +6,10 @@
       "action": "allow",
       "process": "any",
       "remote-hosts": [
+        "admin.figma.com",
         "desktop.figma.com",
         "errors.figma.com",
+        "s3-alpha.figma.com",
         "s3-alpha-sig.figma.com",
         "s3-downtime.figma.com",
         "static.figma.com",
