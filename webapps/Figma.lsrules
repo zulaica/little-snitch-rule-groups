@@ -1,0 +1,24 @@
+{
+  "name": "Figma",
+  "description": "Figma, its helper, and the browser view.",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-hosts": [
+        "desktop.figma.com",
+        "errors.figma.com",
+        "s3-alpha-sig.figma.com",
+        "s3-downtime.figma.com",
+        "static.figma.com",
+        "www.figma.com"
+      ]
+    },
+    {
+      "action": "deny",
+      "notes": "Prevent tracking.",
+      "process": "any",
+      "remote-domains": "marketing.figma.com"
+    }
+  ]
+}

@@ -7,6 +7,11 @@ whether the application native to the OS or is launched from a browser.
 Rule Group URL:
 `https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/1Password.lsrules`
 
+## Figma
+
+Rule Group URL:
+`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/webapps/Figma.lsrules`
+
 ## Notion
 
 Rule Group URL:
