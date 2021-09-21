@@ -6,13 +6,14 @@
       "action": "allow",
       "process": "any",
       "remote-hosts": [
+        "az764295.vo.msecnd.net",
         "code.visualstudio.com",
         "marketplace.visualstudio.com",
         "update.code.visualstudio.com"
       ]
     },
     {
-      "action": "ask",
+      "action": "deny",
       "notes": "Domains used for Telemetry. The information collected is bound by Microsoft's privac policy. https://privacy.microsoft.com/en-us/privacystatement",
       "process": "any",
       "remote-domains": [
@@ -21,7 +22,7 @@
       ]
     },
     {
-      "action": "ask",
+      "action": "deny",
       "notes": "Needed for the Natural Language Search option.",
       "process": "any",
       "remote-hosts": [
@@ -29,10 +30,12 @@
       ]
     },
     {
-      "action": "ask",
-      "notes": "Used for 'experiments', presumably A/B testing.",
+      "action": "deny",
+      "notes": "Used for 'experiments', presumably A/B testing. Issue filed for call to connection to education.github.com: https://github.com/microsoft/vscode/issues/133493",
       "process": "any",
-      "remote-hosts": [
+      "remote-domains": [
+        "education.github.com",
+        "exp-tas.com",
         "vscodeexperiments.azureedge.net"
       ]
     }
