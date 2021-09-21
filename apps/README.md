@@ -7,30 +7,70 @@ making use of a desktop application or is launched from a browser.
 
 ## 1Password 7
 
+https://1password.com
+
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/1Password.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/1Password.lsrules
+```
+
+---
 
 ## Discord
 
+https://discord.com
+
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Discord.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Discord.lsrules
+```
+
+---
 
 ## Figma
 
+https://www.figma.com
+
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Figma.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Figma.lsrules
+```
+
+---
 
 ## Notion
 
+https://www.notion.so/
+
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Notion.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Notion.lsrules
+```
+
+---
 
 ## Signal
 
+https://signal.org
+
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Signal.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Signal.lsrules
+```
+
+---
 
 ## Visual Studio Code
 
+https://code.visualstudio.com
+
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Visual%20Studio%20Code.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/apps/Visual%20Studio%20Code.lsrules
+```

@@ -7,14 +7,24 @@ My rule groups for Little Snitch. YMMV
 Domains, hosts, and IP addresses that are blocked on any process.
 
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/Blocklist.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/Blocklist.lsrules
+```
+
+---
 
 ## 🙆 Allowlist
 
 Domains, hosts, and IP addresses that have been vetted for any process.
 
 Rule Group URL:
-`https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/Allowlist.lsrules`
+
+```
+https://raw.githubusercontent.com/zulaica/little-snitch-rule-groups/main/Allowlist.lsrules
+```
+
+---
 
 ## 🕸 Apps
 
