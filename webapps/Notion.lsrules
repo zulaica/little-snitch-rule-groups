@@ -1,0 +1,20 @@
+{
+  "name": "Notion",
+  "description": "Notion, its helper, and the browser view.",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-hosts": [
+        "www.notion.so",
+        "msgstore.www.notion.so"
+      ]
+    },
+    {
+      "action": "deny",
+      "notes": "Prevent tracking.",
+      "process": "any",
+      "remote-domains": "pgncs.notion.so"
+    }
+  ]
+}
