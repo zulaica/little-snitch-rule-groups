@@ -1,6 +1,6 @@
 {
-  "name" : "🙅 Blocklist",
-  "description" : "😒✋ Domains, hosts, and IP addresses that are blocked on any process.",
+  "name": "🙅 Blocklist",
+  "description": "😒✋ Domains, hosts, and IP addresses that are blocked on any process.",
   "denied-remote-domains": [
     "1rx.io",
     "2mdn.net",
@@ -217,13 +217,12 @@
     "serverbid.com",
     "fwmrm.net"
   ],
-  "denied-remote-addresses" : [
+  "denied-remote-addresses": [
     "54.85.240.191",
     "77.72.169.211",
     "77.72.169.212",
     "142.250.217.68",
     "172.217.14.206"
   ],
-  "rules" : [
-  ]
+  "rules": []
 }
