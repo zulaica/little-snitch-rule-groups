@@ -4,19 +4,7 @@
   "rules": [
     {
       "action": "allow",
-      "notes": "Used by 1Password and its browser extensions.",
-      "process": "any",
-      "remote-hosts": [
-        "1password.com",
-        "b5n.1password.com",
-        "c.1password.com",
-        "my.1password.com",
-        "watchtower.1password.com"
-      ]
-    },
-    {
-      "action": "allow",
-      "notes": "Used by various applications for crash reporting with Microsoft Visual Studio App Center",
+      "notes": "Crash reporting with Microsoft Visual Studio App Center",
       "process": "any",
       "remote-hosts": "in.appcenter.ms"
     }
