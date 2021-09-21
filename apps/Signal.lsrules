@@ -1,6 +1,6 @@
 {
   "name": "🕸 Signal",
-  "description": "Signal, its helpers, and the browser view",
+  "description": "Signal, its helpers, and the browser view.",
   "rules": [
     {
       "action": "allow",

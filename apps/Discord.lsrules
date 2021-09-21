@@ -1,6 +1,6 @@
 {
   "name": "🕸 Discord",
-  "description": "Discord, its helpers, and the browser view",
+  "description": "Discord, its helpers, and the browser view.",
   "rules": [
     {
       "action": "allow",
