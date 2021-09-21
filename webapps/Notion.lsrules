@@ -6,8 +6,8 @@
       "action": "allow",
       "process": "any",
       "remote-hosts": [
-        "www.notion.so",
-        "msgstore.www.notion.so"
+        "msgstore.www.notion.so",
+        "www.notion.so"
       ]
     },
     {
