@@ -7,6 +7,15 @@
       "notes": "Crash reporting with Microsoft Visual Studio App Center",
       "process": "any",
       "remote-hosts": "in.appcenter.ms"
+    },
+    {
+      "action": "allow",
+      "notes": "Avatars served by Gravatar",
+      "process": "any",
+      "remote-hosts": [
+        "secure.gravatar.com",
+        "www.gravatar.com"
+      ]
     }
   ]
 }
