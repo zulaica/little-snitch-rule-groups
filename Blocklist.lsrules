@@ -219,7 +219,12 @@
     "yahoosandbox.com",
     "yieldmo.com",
     "zdbb.net",
-    "zemanta.com"
+    "zemanta.com",
+    "trustx.org",
+    "skimresources.com",
+    "htlbid.com",
+    "crazyegg.com",
+    "akstat.io"
   ],
   "denied-remote-addresses": [
     "54.85.240.191",
