@@ -4,7 +4,7 @@
   "rules": [
     {
       "action": "allow",
-      "notes": "Crash reporting with Microsoft Visual Studio App Center",
+      "notes": "Crash reporting with Microsoft Visual Studio App Center.",
       "process": "any",
       "remote-hosts": "in.appcenter.ms"
     },
@@ -19,7 +19,7 @@
     },
     {
       "action": "allow",
-      "notes": "Commonly used Google domains",
+      "notes": "Commonly used Google hostnames.",
       "process": "any",
       "remote-hosts": [
         "accounts.google.com",
@@ -38,7 +38,7 @@
     },
     {
       "action": "allow",
-      "notes": "Commonly used Github hostnames",
+      "notes": "Commonly used Github hostnames.",
       "process": "any",
       "remote-hosts": [
         "github.com",
