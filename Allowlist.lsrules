@@ -44,6 +44,14 @@
     },
     {
       "action": "allow",
+      "notes": "Commonly used Google domains.",
+      "process": "any",
+      "remote-domains": [
+        "googleusercontent.com"
+      ]
+    },
+    {
+      "action": "allow",
       "notes": "Commonly used Github hostnames.",
       "process": "any",
       "remote-hosts": [
