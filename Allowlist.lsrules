@@ -35,6 +35,20 @@
         "storage.googleapis.com",
         "www.google.com"
       ]
+    },
+    {
+      "action": "allow",
+      "notes": "Commonly used Github hostnames",
+      "process": "any",
+      "remote-hosts": [
+        "github.com",
+        "api.github.com",
+        "gist.github.com",
+        "avatars.githubusercontent.com",
+        "camo.githubusercontent.com",
+        "raw.githubusercontent.com",
+        "github.githubassets.com"
+      ]
     }
   ]
 }
